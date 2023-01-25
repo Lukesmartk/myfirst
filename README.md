@@ -19,7 +19,7 @@ My first to store and write
  4.  rename the created text file- mv nameofthefile
  5.  remove the created text file- rm nameofthefile
  6.  remove a directory- rm -r nameofthedirectory
- 
+ ### reading materials
  
 
 
