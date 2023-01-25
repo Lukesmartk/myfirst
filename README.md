@@ -12,13 +12,13 @@ My first to store and write
 **introduction to commandline**
 1.  introduction to shell
 2.  what's commandline 
-3.  **Techniques on how to:
- >create a directory- mkdir worK
- >move to the created directory- cd work
- >create a text file on the created directory- nano(nameofthefile)
- >rename the created text file- mv nameofthefile
- >remove the created text file- rm nameofthefile
- >remove a directory- rm -r nameofthedirectory
+  **Techniques on how to**:
+ 1.  create a directory- mkdir worK
+ 2.  move to the created directory- cd work
+ 3.  create a text file on the created directory- nano(nameofthefile)
+ 4.  rename the created text file- mv nameofthefile
+ 5.  remove the created text file- rm nameofthefile
+ 6.  remove a directory- rm -r nameofthedirectory
  
  
 
