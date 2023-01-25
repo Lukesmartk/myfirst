@@ -11,8 +11,8 @@ My first to store and write
 # Day two
 **introduction to commandline**
 1.  introduction to shell
-2.  what's commandline 
-  **Techniques on how to**:
+2.  what's commandline
+**Techniques on how to**:
  1.  create a directory- mkdir worK
  2.  move to the created directory- cd work
  3.  create a text file on the created directory- nano(nameofthefile)
