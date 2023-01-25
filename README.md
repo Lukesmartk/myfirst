@@ -6,12 +6,14 @@ Will be writing about bioinformatics workshop that has run from 23rd January 202
 installation of tools
 
 install 
-git bash and Rstudio
+1.  git bash
+2.  Rstudio
 
 
 # Day two
-introduction to commandline
-
+**introduction to commandline**
+1.  introduction to shell
+2.  what's commandline 
 
 # Day Three
 
